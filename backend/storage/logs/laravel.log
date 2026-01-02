@@ -2531,3 +2531,370 @@
 #54 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
 #55 {main}
 "} 
+[2026-01-02 18:38:08] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:08] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:09] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:09] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:09] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:10] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:10] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:10] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:11] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:11] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:11] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:12] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:12] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:13] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:38:13] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:39:03] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(474): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 D:\\Documents_System\\backend\\artisan(11): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#9 {main}
+"} 
+[2026-01-02 18:39:13] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(474): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 D:\\Documents_System\\backend\\artisan(11): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#9 {main}
+"} 
+[2026-01-02 18:39:19] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(474): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 D:\\Documents_System\\backend\\artisan(11): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#9 {main}
+"} 
+[2026-01-02 18:41:06] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(474): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(196): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1235): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#8 D:\\Documents_System\\backend\\artisan(11): Illuminate\\Foundation\\Application->handleCommand(Object(Symfony\\Component\\Console\\Input\\ArgvInput))
+#9 {main}
+"} 
+[2026-01-02 18:41:13] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:41:14] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:41:15] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:41:16] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:41:16] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
+[2026-01-02 18:41:16] local.ERROR: Class "NunoMaduro\Collision\Adapters\Laravel\CollisionServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider\" not found at D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php:961)
+[stacktrace]
+#0 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(893): Illuminate\\Foundation\\Application->resolveProvider('NunoMaduro\\\\Coll...')
+#1 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\ProviderRepository.php(75): Illuminate\\Foundation\\Application->register('NunoMaduro\\\\Coll...')
+#2 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(871): Illuminate\\Foundation\\ProviderRepository->load(Array)
+#3 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\RegisterProviders.php(37): Illuminate\\Foundation\\Application->registerConfiguredProviders()
+#4 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(342): Illuminate\\Foundation\\Bootstrap\\RegisterProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#5 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(187): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#6 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(171): Illuminate\\Foundation\\Http\\Kernel->bootstrap()
+#7 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(145): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#8 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1220): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#9 D:\\Documents_System\\backend\\public\\index.php(17): Illuminate\\Foundation\\Application->handleRequest(Object(Illuminate\\Http\\Request))
+#10 D:\\Documents_System\\backend\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('D:\\\\Documents_Sy...')
+#11 {main}
+"} 
