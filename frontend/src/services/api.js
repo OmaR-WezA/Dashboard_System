@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: 'https://shawnee-uncommutable-royal.ngrok-free.dev/api',
+  baseURL: 'https://shawnee-uncommutable-royal.ngrok-free.dev/api/',
   headers: {
     'Content-Type': 'application/json',
   },
